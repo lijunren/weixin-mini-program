@@ -1,0 +1,3 @@
+<!--miniprogram/pages/add/add.wxml-->
+<text>云函数add调用小例子</text>
+<view>结果是: {{result}}</view>
